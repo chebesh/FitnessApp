@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="tv1">#403E3E</color>
+    <color name="tv2">#0B0A0A</color>
+    <color name="mainTheme">#313550</color>
+    <color name="action_bar">#4F5680</color>
+    <color name="mainPrimary">#2FEABE</color>
+    <color name="text" />
+</resources>

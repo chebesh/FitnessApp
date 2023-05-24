@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">GYM</string>
+    <string name="day">День</string>
+    <string name="waiting_message">Начало упражнений через</string>
+    <string name="Отдых">Отдых</string>
+    <string name="waiting">Приготовьтесь</string>
+    <string name="start">Начать</string>
+    <string name="days">Дни тренировки</string>
+    <string name="next">Далее</string>
+    <string name="alert">Внимание</string>
+    <string name="rest">Осталось:</string>
+    <string name="manyDays">дней</string>
+    <string name="oneDays">дня</string>
+    <string name="finish">Конец</string>
+    <string name="поздравления">Тренировка закончена!</string>
+    <string name="done">Готово</string>
+    <string name="exercises">Упражнений</string>
+    <string name="exercise">Упражнения</string>
+    <string name="slogan">Скала смотрит за тобой</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="Cancel">Сбросить</string>
+    <string name="back">Отмена</string>
+    <string name="days_message">Вы действительно хотите сбросить весь прогресс?</string>
+    <string name="day_message">Хотите сбросить этот день?</string>
+</resources>
